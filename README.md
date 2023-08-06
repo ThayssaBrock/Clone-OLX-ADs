@@ -1,16 +1,16 @@
-# Projeto clone do site Olx 
+# Projeto Clone do site OLX (Estilizado)
 
-### Desenvolvimento em Node.js (Versão 16.14.2)
+### Desenvolvido em Node.js (versão 16.14.0)
 
-Projeto criado durante estudo de Node.js, no curso de ADS.
+Projeto criado durante estudo de Node.js  
+O projeto consiste de um Clone estilizado do BackEnd do site de vendas OLX.
 
-O projeto consiste de um clone estilizado do BackEnd do site de vendas OLX.
+**Utilizado em aulas**  
+_Analise e Desenvolvimento de Sistemas - ADS do [IFSPS](https://www.ifspcaraguatatuba.edu.br/), campus Caraguatatuba_  
+_Disciplina Projeto Integrado 1_
 
-**Utilizado em aula do curso**  
-_Análise e Desenvolvimento de Sistemas (ADS), do [IFSP](http.:.//https://www.ifspcaraguatatuba.edu.br/), campus de Caraguatatuba._   
+Professor: **Denny Paulista Azevedo Filho**
 
-Displina Projeto Integrado
 
-**Professor Denny Azevedo**
+_Autor: Denny Paulista Azevedo Filho_
 
-Autor: **Thayssa Ribeiro Brock**
